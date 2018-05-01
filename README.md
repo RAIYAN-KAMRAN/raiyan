@@ -1,3 +1,3 @@
 <script>
-  document.write("This Domain Is Owned By Raiyan Kameron");
+  document.write("This Domain Is Owned By Raiyan Kamran");
   </script>
